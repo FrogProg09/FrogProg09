@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning how to make understandable and good-looking repository.
 - 📫 How to reach me:
   - Discord: [Frogprog](https://discord.gg/6eaQCP7sd6)
-  - Telegram: @Chocolate_waffels
+  - Telegram: @Chocolate_waffels *(preffered)*
 
 
 # 💻 Tech Stack:
