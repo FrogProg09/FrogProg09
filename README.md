@@ -2,7 +2,7 @@
 
 - 👋 Student of high school, trying to get better at tech stuff.
 - 👀 I’m interested in linux and programming!
-- 🌱 I’m currently learning how to write operating system (Froggy OS).
+- 🌱 I’m currently studying to get into unviersity (TU Wien).
 - 📫 How to reach me:
   - Discord: [Frogprog](https://discord.gg/6eaQCP7sd6)
   - Telegram: @Chocolate_waffels *(preffered)*
