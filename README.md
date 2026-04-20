@@ -4,7 +4,7 @@
 - 👀 I’m interested in linux and programming!
 - 🌱 I’m currently studying to get into unviersity (TU Wien).
 - 📫 How to reach me:
-  - Telegram: @Chocolate_waffels *(preffered)*
+  - Telegram: @frogprog_nerd_official
   - Mail: frogprog09@gmail.com
 
 
