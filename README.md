@@ -2,7 +2,7 @@
 
 - 👋 Student of high school, trying to get better at tech stuff.
 - 👀 I’m interested in linux and programming!
-- 🌱 I’m currently studying to get into unviersity (TU Wien).
+- 🌱 I’m currently studying to get into unviersity.
 - 📫 How to reach me:
   - Telegram: @frogprog_nerd_official
   - Mail: frogprog09@gmail.com
